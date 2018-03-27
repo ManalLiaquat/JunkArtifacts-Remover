@@ -10,11 +10,7 @@ function remove() {
     if (strTxt === "") {
         code.value = alert("Enter Something, field is empty");
     }
-    for (var i = 0; i < strTxt.length; i++) {
-        var newCode = strTxt.replace("\n", "");
-        newCode = newCode.replace("  ", "");
-    }
+    var newCode = strTxt.replace(/\n/g, "");
+    newCode = newCode.replace(/  /g, "");
     code.value = newCode;
-    remove();
-
 }
