@@ -17,4 +17,4 @@ This tool will help you to remove junk artifacts easily. Just paste the code and
 ### Click here =>: [Junk Artifacts Remover ](https://manal-liaquat.firebaseapp.com/Git%20Projects/JunkArtifacts-Remover/index.html)
 
 
-# Thank you ?
+# Thank you ❤
